@@ -10,5 +10,7 @@ resource "aws_instance" "terraform_instance" {
     ami = "ami-02b49a24cfb95941c"
     key_name = "debian"
     instance_type = "t2.micro"
-  
+    
+
+    
 }
