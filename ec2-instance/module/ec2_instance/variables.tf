@@ -3,7 +3,7 @@ variable "ami_id" {
 }
 
 variable "instance_type" {
-    description = "value for instance type"  
+    description = "value for instance type"
 }
 
 variable "key_name" {
